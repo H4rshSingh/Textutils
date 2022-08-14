@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.ddde5fa8.css","mappings":"AACA,EACE,oBACF,CACA,WACE,oBACF,CAEA,IACE,UACF","sources":["App.css"],"sourcesContent":["\na{\n  text-decoration: none;\n}\n.word-wrap{\n  word-wrap: break-word;\n}\n\nimg{\n  width: 50px;\n}\n"],"names":[],"sourceRoot":""}
